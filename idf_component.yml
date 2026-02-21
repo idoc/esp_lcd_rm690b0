@@ -1,6 +1,6 @@
 version: 1.0.0
 description: ESP LCD RM690B0 driver. It was only tested on QSPI, but should also support "plain" SPI, I80, and MIPI DSI. *Should*.
-url: https://github.com/idoc/esp_lcd_rm690b0
+repository: https://github.com/idoc/esp_lcd_rm690b0
 
 dependencies:
   idf:

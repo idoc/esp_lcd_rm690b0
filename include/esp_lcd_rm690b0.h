@@ -4,6 +4,8 @@
 #include "soc/gpio_num.h"
 #include "esp_lcd_panel_interface.h"
 
+const uint32_t rm690b0_spi_clock_hz = 80 * 1000 * 1000;
+
 /**
  * @brief LCD panel vendor configuration.
  *
